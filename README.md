@@ -1,6 +1,6 @@
-# Journal club del grupo de investigación de Carlos Pineda (IF-UNAM)
+## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
 
-## 13/03/24:
+### 13/03/24:
 **Carlos**
 - "Nonrelativistic spatiotemporal quantum reference frames" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032205](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032205)
 - "Premeasurement reliability and accessibility of quantum measurement apparatuses" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032203](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032203)
