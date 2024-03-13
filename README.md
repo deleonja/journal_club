@@ -7,4 +7,4 @@
 
 **José Alfredo**
 - "Entanglement-breaking channels are a quantum memory resource" [https://arxiv.org/abs/2402.16789v1](https://arxiv.org/abs/2402.16789v1)
-- "Choi representation of completely positive maps: a technical introduction" [https://arxiv.org/abs/2402.12944v1](https://arxiv.org/abs/2402.12944v1
+- "Choi representation of completely positive maps: a technical introduction" [https://arxiv.org/abs/2402.12944v1](https://arxiv.org/abs/2402.12944v1)
