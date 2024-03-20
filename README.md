@@ -1,5 +1,16 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
 
+### 20/03/24:
+**Carlos**
+- "New research suggests that our universe has no dark matter" [https://phys.org/news/2024-03-universe-dark.html](https://phys.org/news/2024-03-universe-dark.html)
+- "Cutting a Wire with Non-Maximally Entangled States" [https://arxiv.org/abs/2403.09690)](https://arxiv.org/abs/2403.09690)
+
+**José Alfredo**
+- "All incompatible measurements on qubits lead to multiparticle Bell nonlocality" [https://arxiv.org/abs/2403.10564](https://arxiv.org/abs/2403.10564)
+
+**Victor**
+- "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052332" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052332](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052332)
+
 ### 13/03/24:
 **Carlos**
 - "Nonrelativistic spatiotemporal quantum reference frames" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032205](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032205)
