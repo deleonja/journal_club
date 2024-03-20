@@ -9,7 +9,7 @@
 - "All incompatible measurements on qubits lead to multiparticle Bell nonlocality" [https://arxiv.org/abs/2403.10564](https://arxiv.org/abs/2403.10564)
 
 **Victor**
-- "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052332" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052332](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052332)
+- "Adaptive recurrence quantum entanglement distillation for two-Kraus-operator channels" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052332](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052332)
 
 ### 13/03/24:
 **Carlos**
