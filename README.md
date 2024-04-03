@@ -8,7 +8,7 @@
 - "Quantum computing progress: Higher temps, better error correction" [https://arstechnica.com/science/2024/03/quantum-computing-progress-higher-temps-better-error-correction/](https://arstechnica.com/science/2024/03/quantum-computing-progress-higher-temps-better-error-correction/)
 
 **José Alfredo**
-- Achieving quantum advantage in a search for a minimal Goldbach partition with driven atoms in tailored potentials" [https://arxiv.org/abs/2404.00517](https://arxiv.org/abs/2404.00517)
+- "Achieving quantum advantage in a search for a minimal Goldbach partition with driven atoms in tailored potentials" [https://arxiv.org/abs/2404.00517](https://arxiv.org/abs/2404.00517)
 - "Is Winter Coming?" [https://arxiv.org/abs/2403.19977](https://arxiv.org/abs/2403.19977)
 - "Multi-Messenger Astrology" [https://arxiv.org/abs/2403.19749](https://arxiv.org/abs/2403.19749)
 
