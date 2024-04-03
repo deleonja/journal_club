@@ -2,7 +2,7 @@
 
 ### 03/04/24:
 **Victor**
--
+- "Quantum control by the environment: Turing uncomputability, Optimization over Stiefel manifolds, Reachable sets, and Incoherent GRAPE" [https://arxiv.org/abs/2403.13461](https://arxiv.org/abs/2403.13461)
 
 **Carlos**
 - "Quantum computing progress: Higher temps, better error correction" [https://arstechnica.com/science/2024/03/quantum-computing-progress-higher-temps-better-error-correction/](https://arstechnica.com/science/2024/03/quantum-computing-progress-higher-temps-better-error-correction/)
@@ -14,6 +14,7 @@
 
 **Miguel**
 - "Doped stabilizer states in many-body physics and where to find them" [https://arxiv.org/abs/2403.14912](https://arxiv.org/abs/2403.14912)
+- "Magic Meets Entanglement: Pseudomagic and Computational Separations | Qiskit Quantum Seminar - YouTube" [https://www.youtube.com/watch?v=xqoHU286kjQ](https://www.youtube.com/watch?v=xqoHU286kjQ)
 
 ### 20/03/24:
 **Carlos**
