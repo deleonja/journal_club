@@ -1,5 +1,20 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
 
+### 03/04/24:
+**Victor**
+-
+
+**Carlos**
+- "Quantum computing progress: Higher temps, better error correction" [https://arstechnica.com/science/2024/03/quantum-computing-progress-higher-temps-better-error-correction/](https://arstechnica.com/science/2024/03/quantum-computing-progress-higher-temps-better-error-correction/)
+
+**José Alfredo**
+- Achieving quantum advantage in a search for a minimal Goldbach partition with driven atoms in tailored potentials" [https://arxiv.org/abs/2404.00517](https://arxiv.org/abs/2404.00517)
+- "Is Winter Coming?" [https://arxiv.org/abs/2403.19977](https://arxiv.org/abs/2403.19977)
+- "Multi-Messenger Astrology" [https://arxiv.org/abs/2403.19749](https://arxiv.org/abs/2403.19749)
+
+**Miguel**
+- "Doped stabilizer states in many-body physics and where to find them" [https://arxiv.org/abs/2403.14912](https://arxiv.org/abs/2403.14912)
+
 ### 20/03/24:
 **Carlos**
 - "New research suggests that our universe has no dark matter" [https://phys.org/news/2024-03-universe-dark.html](https://phys.org/news/2024-03-universe-dark.html)
