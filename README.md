@@ -1,5 +1,12 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
 
+### 10/04/24:
+**Miguel**
+- "Explore The Clifford Group, A Crucial Tool For Benchmarking, Error Correction, And More" [https://medium.com/qiskit/explore-the-clifford-group-a-crucial-tool-for-benchmarking-error-correction-and-more-b9fdca16bb46](https://medium.com/qiskit/explore-the-clifford-group-a-crucial-tool-for-benchmarking-error-correction-and-more-b9fdca16bb46)
+
+**José Alfredo**
+- "Error-Resilience Phase Transitions in Encoding-Decoding Quantum Circuits" [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.140401](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.140401)
+
 ### 03/04/24:
 **Victor**
 - "Quantum control by the environment: Turing uncomputability, Optimization over Stiefel manifolds, Reachable sets, and Incoherent GRAPE" [https://arxiv.org/abs/2403.13461](https://arxiv.org/abs/2403.13461)
