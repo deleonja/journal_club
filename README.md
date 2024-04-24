@@ -1,4 +1,14 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
+### 24/04/24:
+**Victor**
+- "Overview of projective quantum measurements" [https://arxiv.org/abs/2404.05679](https://arxiv.org/abs/2404.05679)
+- "Optimal local filtering operation for enhancing quantum entanglement" [https://arxiv.org/abs/2401.08944](https://arxiv.org/abs/2401.08944)
+
+**Carlos**
+- "Embedding Quantum Many-Body Scars into Decoherence-Free Subspaces" [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.150401](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.150401)
+
+**José Alfredo**
+- "Separability Criteria Based on the Weyl Operators" [https://www.mdpi.com/1099-4300/24/8/1064](https://www.mdpi.com/1099-4300/24/8/1064)
 
 ### 10/04/24:
 **Miguel**
