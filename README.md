@@ -1,4 +1,21 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
+
+### 01/05/24:
+**Diego Wisniacki**
+- "Loschmidt-echo approach to error estimation in Krylov-subspace approximation" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.042423](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.042423)
+
+ **Miguel**
+- "On phase-space representations of spin systems and their relations to infinite-dimensional quantum states" [https://mediatum.ub.tum.de/doc/1463517/1463517.pdf](https://mediatum.ub.tum.de/doc/1463517/1463517.pdf)
+
+**Alejandro**
+- The born rule
+
+**José Alfredo**
+- "Approximating many-body quantum states with quantum circuits and measurements" [https://arxiv.org/abs/2403.07604](https://arxiv.org/abs/2403.07604)
+
+**Victor**
+-"A Modified Depolarization Approach for Efficient Quantum Machine Learning" [https://www.mdpi.com/2227-7390/12/9/1385](https://www.mdpi.com/2227-7390/12/9/1385)
+
 ### 24/04/24:
 **Victor**
 - "Overview of projective quantum measurements" [https://arxiv.org/abs/2404.05679](https://arxiv.org/abs/2404.05679)
