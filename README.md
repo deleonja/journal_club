@@ -14,7 +14,7 @@
 - "Approximating many-body quantum states with quantum circuits and measurements" [https://arxiv.org/abs/2403.07604](https://arxiv.org/abs/2403.07604)
 
 **Victor**
--"A Modified Depolarization Approach for Efficient Quantum Machine Learning" [https://www.mdpi.com/2227-7390/12/9/1385](https://www.mdpi.com/2227-7390/12/9/1385)
+- "A Modified Depolarization Approach for Efficient Quantum Machine Learning" [https://www.mdpi.com/2227-7390/12/9/1385](https://www.mdpi.com/2227-7390/12/9/1385)
 
 ### 24/04/24:
 **Victor**
