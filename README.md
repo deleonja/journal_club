@@ -8,7 +8,7 @@
 - "On phase-space representations of spin systems and their relations to infinite-dimensional quantum states" [https://mediatum.ub.tum.de/doc/1463517/1463517.pdf](https://mediatum.ub.tum.de/doc/1463517/1463517.pdf)
 
 **Alejandro**
-- The born rule
+- "The Born rule: Axiom or result?" [https://doi.org/10.1119/5.0151405](https://doi.org/10.1119/5.0151405)
 
 **José Alfredo**
 - "Approximating many-body quantum states with quantum circuits and measurements" [https://arxiv.org/abs/2403.07604](https://arxiv.org/abs/2403.07604)
