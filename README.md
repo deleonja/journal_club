@@ -1,5 +1,20 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
 
+### 08/05/24:
+**Carlos**
+- "Breaking absolute separability with quantum switch" [https://arxiv.org/abs/2310.04819](https://arxiv.org/abs/2310.04819)
+
+**Miguel**
+- "Quantum Algorithms for Inverse Participation Ratio Estimation in multi-qubit and multi-qudit systems" [https://arxiv.org/abs/2405.03338v1](https://arxiv.org/abs/2405.03338v1)
+
+**Alejandro**
+- "Experimental Virtual Distillation of Entanglement and Coherence" [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.180201](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.180201)
+- "Virtual Quantum Resource Distillation" [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.050203](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.050203)
+- "Virtual quantum resource distillation: General framework and applications" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.022403](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.022403)
+
+**José Alfredo**
+- "Approximating quantum channels by completely positive maps with small Kraus rank" [https://quantum-journal.org/papers/q-2024-04-30-1320/](https://quantum-journal.org/papers/q-2024-04-30-1320/)
+
 ### 01/05/24:
 **Diego Wisniacki**
 - "Loschmidt-echo approach to error estimation in Krylov-subspace approximation" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.042423](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.042423)
