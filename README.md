@@ -14,7 +14,7 @@
 - "Quantum thermalization through entanglement in an isolated many-body system" [https://www.science.org/doi/10.1126/science.aaf6725](https://www.science.org/doi/10.1126/science.aaf6725)
 - "Atomic physics on a 50-nm scale: Realization of a bilayer system of dipolar atoms" [https://www.science.org/doi/10.1126/science.adh3023](https://www.science.org/doi/10.1126/science.adh3023)
 - "Fuzzy measurements and coarse graining in quantum many-body systems" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.042218](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.042218)
-- 
+
 
 ### 08/05/24:
 **Carlos**
