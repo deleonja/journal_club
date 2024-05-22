@@ -1,5 +1,15 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
 ### 15/05/24:
+**Carlos**
+- "Open Quantum System Dynamics from Infinite Tensor Network Contraction" [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.200403](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.200403)
+
+**Miguel**
+- "Witnessing Entanglement and Quantum Correlations in Condensed Matter: A Review" [https://arxiv.org/abs/2405.10899](https://arxiv.org/abs/2405.10899)
+
+**José Alfredo**
+- "Measuring Spectral Form Factor in Many-Body Chaotic and Localized Phases of Quantum Processors" [https://arxiv.org/abs/2403.16935](https://arxiv.org/abs/2403.16935)
+
+### 15/05/24:
 **José Alfredo**
 - "Quantum thermalization through entanglement in an isolated many-body system" [https://www.science.org/doi/10.1126/science.aaf6725](https://www.science.org/doi/10.1126/science.aaf6725)
 - "Atomic physics on a 50-nm scale: Realization of a bilayer system of dipolar atoms" [https://www.science.org/doi/10.1126/science.adh3023](https://www.science.org/doi/10.1126/science.adh3023)
