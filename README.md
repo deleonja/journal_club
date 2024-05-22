@@ -1,5 +1,5 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
-### 15/05/24:
+### 22/05/24:
 **Carlos**
 - "Open Quantum System Dynamics from Infinite Tensor Network Contraction" [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.200403](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.200403)
 
