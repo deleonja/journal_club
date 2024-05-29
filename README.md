@@ -1,4 +1,14 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
+### 29/05/24:
+**Victor**
+- "Overcoming noise in quantum teleportation with multipartite hybrid entanglement" [https://www.science.org/doi/10.1126/sciadv.adj3435](https://www.science.org/doi/10.1126/sciadv.adj3435)
+
+**Carlos Díaz**
+- "Preparing quantum many-body scar states on quantum computers" [https://quantum-journal.org/papers/q-2023-11-07-1171/](https://quantum-journal.org/papers/q-2023-11-07-1171/)
+
+**Alejandro**
+- "Non-projective Bell state measurements" [https://arxiv.org/abs/2405.03872v1](https://arxiv.org/abs/2405.03872v1)
+
 ### 22/05/24:
 **Carlos**
 - "Open Quantum System Dynamics from Infinite Tensor Network Contraction" [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.200403](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.200403)
