@@ -1,4 +1,11 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
+### 05/06/24:
+**José Alfredo**
+- "Concurrence versus purity: Influence of local channels on Bell states of two qubits" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.72.052325](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.72.052325)
+
+**Miguel**
+- ``Addendum to "Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space" '' [https://arxiv.org/abs/2404.15874](https://arxiv.org/abs/2404.15874)
+
 ### 29/05/24:
 **Victor**
 - "Overcoming noise in quantum teleportation with multipartite hybrid entanglement" [https://www.science.org/doi/10.1126/sciadv.adj3435](https://www.science.org/doi/10.1126/sciadv.adj3435)
