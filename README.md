@@ -1,4 +1,28 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
+### 28/08/24:
+**Miguel**
+- "Introduction to the theory of open quantum systems" [https://scipost.org/SciPostPhysLectNotes.68](https://scipost.org/SciPostPhysLectNotes.68)
+- "Quantum Algorithms and Applications for Open Quantum Systems" [https://arxiv.org/abs/2406.05219](https://arxiv.org/abs/2406.05219)
+
+### 21/08/24:
+**José Alfredo**
+"Canonical Typicality under General Quantum Channels" [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.060401](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.060401)
+
+**Carlos**
+"Equilibration of objective observables in a dynamical model of quantum measurements" [https://arxiv.org/abs/2403.18016](https://arxiv.org/abs/2403.18016)
+
+### 14/08/24:
+**Carlos Diaz**
+"Rainbow scars: From area to volume law" [https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L060301](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L060301)
+
+**Victor**
+- "Experimental investigation of the dynamics of entanglement: Sudden death, complementarity, and continuous monitoring of the environment" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.78.022322](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.78.022322)
+- "Complementarity relations for quantum coherence" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.042101](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.042101)
+
+### 07/08/24:
+**Miguel**
+"Quantum-classical correspondence in quantum channels" [https://arxiv.org/abs/2407.14067](https://arxiv.org/abs/2407.14067)
+
 ### 05/06/24:
 **José Alfredo**
 - "Concurrence versus purity: Influence of local channels on Bell states of two qubits" [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.72.052325](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.72.052325)
