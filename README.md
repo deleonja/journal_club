@@ -4,6 +4,7 @@
 - "Heat as a witness of quantum properties" [https://arxiv.org/abs/2408.06418](https://arxiv.org/abs/2408.06418)
 
 ### 04/09/24:
+**Charly**
 - "Weak integrability breaking and level spacing distribution" [https://scipost.org/10.21468/SciPostPhys.11.2.037](https://scipost.org/10.21468/SciPostPhys.11.2.037)
  
 ### 28/08/24:
