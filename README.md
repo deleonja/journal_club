@@ -1,4 +1,8 @@
 ## Journal club del grupo de investigación del Dr. Carlos Pineda (IF-UNAM)
+### 11/09/24:
+**Viko**
+- "Heat as a witness of quantum properties" [https://arxiv.org/abs/2408.06418](https://arxiv.org/abs/2408.06418)
+ 
 ### 28/08/24:
 **Miguel**
 - "Introduction to the theory of open quantum systems" [https://scipost.org/SciPostPhysLectNotes.68](https://scipost.org/SciPostPhysLectNotes.68)
