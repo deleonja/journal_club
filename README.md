@@ -5,7 +5,6 @@
 ### 11/09/24:
 **Viko**
 - "Heat as a witness of quantum properties" [https://arxiv.org/abs/2408.06418](https://arxiv.org/abs/2408.06418)
->>>>>>> 23c2bccf8519a7b288c4a43799168d335e901fce
 
 ### 04/09/24:
 **Charly**
