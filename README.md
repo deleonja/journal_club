@@ -1,3 +1,5 @@
+**Note**: this repository hasn't been mantained for two years, it was migrated to a tab of Carlos Pineda's group webpage ([https://gioc.fisica.unam.mx/](https://gioc.fisica.unam.mx/)) and kept updated until the end of 2025. It was not being useful for anyone, so it was decided by Carlos Pineda and me to close (temporarily?) the tab. 
+
 # Journal club
 
 ## 13/03/24:
